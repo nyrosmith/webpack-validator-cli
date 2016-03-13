@@ -1,0 +1,27 @@
+{
+  "name": "webpack-validator-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "weva": "./bin/cli"
+  },
+  "dependencies": {
+    "commander": "^2.9.0",
+    "webpack-validator": "^1.0.0-beta.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyrosmith/webpack-validator-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nyrosmith/webpack-validator-cli/issues"
+  },
+  "homepage": "https://github.com/nyrosmith/webpack-validator-cli#readme"
+}
