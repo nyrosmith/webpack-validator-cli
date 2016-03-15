@@ -7,8 +7,10 @@
     "weva": "./bin/cli"
   },
   "dependencies": {
+    "chalk": "^1.1.1",
     "commander": "^2.9.0",
-    "webpack-validator": "^1.0.0-beta.6"
+    "lodash": "^4.6.1",
+    "webpack": "^1.12.14"
   },
   "devDependencies": {},
   "scripts": {

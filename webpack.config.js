@@ -1,7 +1,7 @@
 var webpack = require('webpack')
 
 module.exports = {
-
+  debugs: [],
   output: [{
       library: 'History',
       libraryTarget: 'umd'
